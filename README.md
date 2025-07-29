@@ -14,10 +14,10 @@ A Streamlit app that detects colors by clicking anywhere on an uploaded image. I
 - Numpy
 - streamlit-drawable-canvas
 
+## Installation
+pip install -r requirements.txt
+
 ## How to Run
 ```bash
 streamlit run app.py
-
-## Installation
-pip install -r requirements.txt
 
