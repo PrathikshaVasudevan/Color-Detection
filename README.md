@@ -18,3 +18,6 @@ A Streamlit app that detects colors by clicking anywhere on an uploaded image. I
 ```bash
 streamlit run app.py
 
+## Installation
+pip install -r requirements.txt
+
