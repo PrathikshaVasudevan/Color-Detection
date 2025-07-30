@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ## How to Run
 ```bash
 streamlit run detectionapp.py
-```  <!-- 🔴 THIS closes the code block -->
+```
 
 ##  About Me
 Made by [Prathiksha Vasudevan](https://www.linkedin.com/in/prathiksha-vasudevan-035917349)  
