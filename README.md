@@ -21,3 +21,8 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 
+
+## About Me
+Made by [Prathiksha Vasudevan](https://www.linkedin.com/in/prathiksha-vasudevan-035917349)  
+📫 Email: prathiksha2k6@email.com
+
